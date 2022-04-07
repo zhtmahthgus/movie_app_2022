@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/movie_app_2022/static/js/main.7d9101cb.js",
+    "index.html": "/movie_app_2022/index.html",
+    "main.7d9101cb.js.map": "/movie_app_2022/static/js/main.7d9101cb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7d9101cb.js"
+  ]
+}
